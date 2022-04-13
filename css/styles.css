@@ -7414,26 +7414,3 @@ form .row:first-child .floating-label-form-group {
 
 .btn-social {
   margin-bottom: 0.5rem; }
-
-#wrap {
-  width: 750px;
-  height: 1500px;
-  padding: 0;
-  overflow: hidden;
-}
-
-#scaled-frame {
-  width: 1000px;
-  height: 2000px;
-  border: 0px;
-}
-
-#scaled-frame {
-  zoom: 0.75;
-  -moz-transform: scale(0.75);
-  -moz-transform-origin: 0 0;
-  -o-transform: scale(0.75);
-  -o-transform-origin: 0 0;
-  -webkit-transform: scale(0.75);
-  -webkit-transform-origin: 0 0;
-}

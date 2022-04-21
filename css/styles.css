@@ -7415,12 +7415,13 @@ form .row:first-child .floating-label-form-group {
 .btn-social {
   margin-bottom: 0.5rem; }
 
-.portfolio-container {
+.portfolio-element {
+  margin: 3%;
   position: relative;
-  text-align: center;
-  color: white;
+}
+
+.bottom-txt {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 20px;
+  left: 10px;
 }

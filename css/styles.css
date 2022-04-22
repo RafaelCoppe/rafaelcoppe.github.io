@@ -97,7 +97,7 @@ ol ol,
 ul ul,
 ol ul,
 ul ol {
-  margin: 0; }
+  margin-bottom: 0; }
 
 dt {
   font-weight: 700; }
@@ -7425,4 +7425,8 @@ form .row:first-child .floating-label-form-group {
   bottom: 20px;
   left: 10px;
   color: white;
+}
+
+ul li {
+  margin: 0;
 }

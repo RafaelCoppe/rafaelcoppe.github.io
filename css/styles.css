@@ -7421,9 +7421,6 @@ form .row:first-child .floating-label-form-group {
 }
 
 .bottom-txt {
-  position: absolute;
-  bottom: 20px;
-  left: 10px;
   color: white;
   /* Black outline around the text */
   text-shadow:

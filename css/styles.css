@@ -7424,7 +7424,8 @@ form .row:first-child .floating-label-form-group {
   position: absolute;
   bottom: 20px;
   left: 10px;
-  
+  color: white;
+  /* Black outline around the text */
   text-shadow:
   -1px -1px 0 #000,
   1px -1px 0 #000,

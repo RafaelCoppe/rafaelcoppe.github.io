@@ -4583,10 +4583,10 @@ a.close.disabled {
     opacity: 0.9; }
 
 .carousel-control-prev {
-  left: 0; }
+  left: -100px; }
 
 .carousel-control-next {
-  right: 0; }
+  right: -100px; }
 
 .carousel-control-prev-icon,
 .carousel-control-next-icon {
@@ -4603,9 +4603,9 @@ a.close.disabled {
 
 .carousel-indicators {
   position: absolute;
-  right: 0;
+  right: -50px;
   bottom: -150px;
-  left: 0;
+  left: 50px;
   z-index: 15;
   display: flex;
   justify-content: center;

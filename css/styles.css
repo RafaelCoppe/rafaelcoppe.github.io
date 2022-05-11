@@ -131,11 +131,11 @@ sup {
   top: -.5em; }
 
 a {
-  color: #e1d8cf;
+  color: #0000EE;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
-    color: #c4b2a0;
+    color: #000000;
     text-decoration: underline; }
 
 a:not([href]) {
@@ -7425,4 +7425,9 @@ form .row:first-child .floating-label-form-group {
 
 ul li {
   text-align: left;
+}
+
+.citation {
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
